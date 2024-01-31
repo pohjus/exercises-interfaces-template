@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/Users/pohjus/Desktop/exercise-interfaces/02/app/src/main/java/exercise/DriveThruSpeakerSystem.java">
+</file>
+<file name="/Users/pohjus/Desktop/exercise-interfaces/02/app/src/main/java/exercise/Customer.java">
+</file>
+<file name="/Users/pohjus/Desktop/exercise-interfaces/02/app/src/main/java/exercise/Human.java">
+</file>
+<file name="/Users/pohjus/Desktop/exercise-interfaces/02/app/src/main/java/exercise/AI.java">
+</file>
+<file name="/Users/pohjus/Desktop/exercise-interfaces/02/app/src/main/java/exercise/App.java">
+</file>
+</checkstyle>

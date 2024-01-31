@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.MyWindowTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-01-30T15:13:51" hostname="yrl6cnqc7c-mac" time="0.21">
+  <properties/>
+  <testcase name="testDefaultCloseOperation" classname="exercise.MyWindowTest" time="0.208"/>
+  <testcase name="testWindowDimensions" classname="exercise.MyWindowTest" time="0.0"/>
+  <testcase name="testMouseListener" classname="exercise.MyWindowTest" time="0.001"/>
+  <testcase name="testWindowTitle" classname="exercise.MyWindowTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

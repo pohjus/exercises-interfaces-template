@@ -1,1 +1,1 @@
-# exercises-interfaces-template
+# exercise-interfaces

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.HumanTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-01-30T15:04:33" hostname="yrl6cnqc7c-mac" time="0.01">
+  <properties/>
+  <testcase name="calculateTotal" classname="exercise.HumanTest" time="0.003"/>
+  <testcase name="notifyWhenReady" classname="exercise.HumanTest" time="0.002"/>
+  <testcase name="processPayment" classname="exercise.HumanTest" time="0.004"/>
+  <testcase name="takeOrder" classname="exercise.HumanTest" time="0.0"/>
+  <testcase name="confirmOrder" classname="exercise.HumanTest" time="0.0"/>
+  <system-out><![CDATA[Processed payment of $20.0 using Credit Card
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

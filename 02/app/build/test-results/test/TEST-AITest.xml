@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AITest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-01-30T15:04:33" hostname="yrl6cnqc7c-mac" time="0.001">
+  <properties/>
+  <testcase name="testTakeOrder" classname="AITest" time="0.0"/>
+  <testcase name="testProcessPayment" classname="AITest" time="0.001"/>
+  <testcase name="testConfirmOrder" classname="AITest" time="0.0"/>
+  <testcase name="testNotifyWhenReady" classname="AITest" time="0.0"/>
+  <testcase name="testCalculateTotal" classname="AITest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

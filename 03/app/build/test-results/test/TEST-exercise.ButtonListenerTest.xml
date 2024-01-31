@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.ButtonListenerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-30T15:09:01" hostname="yrl6cnqc7c-mac" time="0.003">
+  <properties/>
+  <testcase name="testActionPerformed" classname="exercise.ButtonListenerTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
